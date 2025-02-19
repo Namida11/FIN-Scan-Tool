@@ -1,0 +1,12 @@
+{
+  "name": "scan-tool",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "async": "^3.2.6",
+    "fs": "^0.0.1-security",
+    "net-ping": "^1.2.4",
+    "ping": "^0.4.4",
+    "raw-socket": "^1.8.1"
+  }
+}
